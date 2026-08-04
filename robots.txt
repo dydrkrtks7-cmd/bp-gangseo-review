@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://shirtsroom.shop/sitemap.xml
+Sitemap: https://shirtsroom.shop/sitemap-pages.xml
 Sitemap: https://shirtsroom.shop/sitemap-index.xml
